@@ -5,6 +5,11 @@ Temas para do Bash Ubuntu Linux - testado nas versões do Ubuntu 18.04.4 LTS (Bi
 
 - Neste repositório trataremos de temas para o Bash para a distribuição Ubuntu, mas podem ser alterados para outras distribuições a vontade.
 
+# Instalação 
+Instale Cowsay e Fortune via comando:
+
+$ sudo apt install cowsay fortunes-br
+
 # Aviso Legal
 
 Este repositório é um compilado das soluções que utilizo em meus compudadores, logo por ser algo de domínio publico sendo que as informações estam diposniveis na internet, nos manuais do Debian/Ark e no gigantesco manual do Bash (digite *man bash* no terminal e comprove). Desta forma optei pela licença mais permissiva e simples que existe a Licença MIT. Leia as informações da licença antes de usar.
