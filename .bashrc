@@ -1,6 +1,6 @@
 # *********************************************
 # * ~/.bashrc Personalizado para Ubuntu       *
-# * System: Ubuntu 20.04 – Xenial Xerus       *
+# * System: Ubuntu 20.04 – Focal Fossa        *
 # * local: /home/user/.bashrc                 *
 # *                                           *
 # * Author: Edius Ferreira Lima Junior        *
