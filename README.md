@@ -1,7 +1,7 @@
 #####  REPOSITÓRIO ENCONTRAÇÃO ######
 
 # BASH
-Temas para do Bash Ubuntu Linux - testado nas versões do Ubuntu 18.04.1 LTS (Bionic Beaver) e Ubuntu 18.10 (Cosmic Cuttlefish)
+Temas para do Bash Ubuntu Linux - testado nas versões do Ubuntu 18.04.4 LTS (Bionic Beaver) e Ubuntu 20.04 (Focal Fossa)
 
 - Neste repositório trataremos de temas para o Bash para a distribuição Ubuntu, mas podem ser alterados para outras distribuições a vontade.
 
