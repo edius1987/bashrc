@@ -1,6 +1,6 @@
 # *********************************************
 # * ~/.bashrc Personalizado para Ubuntu       *
-# * System: Ubuntu 16.04 – Xenial Xerus       *
+# * System: Ubuntu 20.04 – Xenial Xerus       *
 # * local: /home/user/.bashrc                 *
 # *                                           *
 # * Author: Edius Ferreira Lima Junior        *
@@ -28,7 +28,9 @@ shopt -s histappend
 # Definições do comprimento e tamnho do historico.
 HISTSIZE=1000
 HISTFILESIZE=2000
- 
+
+fortune | cowsay -f `ls -1 /usr/share/cowsay/cows/ | sort -R | head -1` -n
+
 #===========================================
 # Váriavies com as Cores
 #===========================================
